@@ -1,0 +1,17 @@
+.btn-apply{
+  padding: 15px 15px;
+  color: rgb(83, 207, 155);
+  background-color: rgb(168,0,1);
+  position: absolute;
+  top: 80%;
+  left: 45%;
+  border: 1px solid rgb(83, 207, 155);
+  box-shadow: 2px 2px 5px rgb(48, 47, 47);
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 auto;
+}
+.btn-apply:hover{
+    background-color: rgb(241, 3, 3);
+}

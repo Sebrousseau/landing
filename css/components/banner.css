@@ -1,0 +1,11 @@
+.banner{
+  display: flex;
+  position: relative;
+  background-image: url('../../images/banner.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  align-items: center;
+  color: 	rgb(83, 207, 155);
+  text-shadow: 2px 2px 5px black;
+}
